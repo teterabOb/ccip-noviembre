@@ -1,0 +1,27 @@
+{
+    "name": "Chainlink x Avalanche - Cross-Chain NFT",
+    "description": "El primer cross-chain NFT para la Comunidad Hispano hablante en el marco de la hackathon!!",
+    "image": "https://ipfs.io/ipfs/QmSvuJGVLGuG8Ct1KQUFpaTGGBNs1kKzx65DXJD42SgsGh",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "0000"
+        },
+        {
+            "trait_type": "Age",
+            "value": "Forever"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Lighters"
+        },
+        {
+            "trait_type": "G",
+            "value": "5"
+        },
+        {
+            "trait_type": "AB",
+            "value": "10"
+        }
+    ]
+}
